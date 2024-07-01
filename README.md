@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeke-py
 - 👀 I’m interested in WEB DEVELOPING
-- 🌱 I’m currently learning JAVSACRIPT
+- 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on (MAY BE IN FUTURE)
 - 📫 How to reach me ...
 - 😄 Pronouns: HE/HIM
